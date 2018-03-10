@@ -1,0 +1,6 @@
+.env
+.idea/
+vendor/
+_private/
+.DS_Store
+logs/application.log
